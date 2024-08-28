@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @harry-barr
-- 👀 I’m interested in all things web development, ai, and the potential of technology
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on exciting new projects
+Hi there, my name is Harry and I am an aspiring web developer. I love to create and learn. I am currently in the process of mastering JavaScript. 
+Please take a look at my personal portfolio webpage and repositories if you would like to find out more about me :) 
 
 
 <!---
