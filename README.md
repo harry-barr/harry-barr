@@ -1,4 +1,4 @@
-Hi there, my name is Harry and I am an aspiring web developer. I love to create, learn, and solve problems. I am currently in the process of mastering JavaScript. 
+Hi there, my name is Harry and I am a web developer. I love to create, learn, and solve problems. I am currently in the process of mastering JavaScript. 
 Please take a look at my personal portfolio webpage and repositories if you would like to find out more about me :) 
 
 
